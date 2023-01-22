@@ -3,7 +3,7 @@ public class BonusMilesService {
 
         int formula = 20;
 
-        int bonus = cost /formula;
+        int bonus = cost / formula;
 
         return bonus;
     }
